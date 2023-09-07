@@ -1,0 +1,5 @@
+phonenumbers
+pycountry
+opencage
+folium
+requests
